@@ -367,7 +367,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # React Native Development
 
-[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/100526624-7ba5c080-317f-11eb-8bf6-6fedf59480e1.png">
@@ -455,7 +455,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Flutter Development
 
-[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719686-0abbaa00-fb39-11ea-978d-91e55844dd7a.png">
@@ -518,7 +518,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Swift Development
 
-[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719675-03949c00-fb39-11ea-8f81-bf4cd544c17f.png">
@@ -611,7 +611,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Unity Development
 
-[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117214420-a4c32080-adb1-11eb-952a-8412ce2714a5.png">
