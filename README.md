@@ -364,3 +364,309 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 [Lepide SQL Server](https://www.lepide.com/sql-storage-manager/) is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.
 
 [Sequel Pro](https://sequelpro.com/) is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.
+
+# React Native Development
+
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/100526624-7ba5c080-317f-11eb-8bf6-6fedf59480e1.png">
+  <br />
+</p>
+
+**[Adobe Experience Cloud Mobile SDK for React Native](https://aep-sdks.gitbook.io/docs/resources/upgrading-to-aep/current-sdk-versions#react-native)**
+
+## React Learning Resources
+
+[React](https://reactjs.org/) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+[Getting Started with React](https://reactjs.org/docs/getting-started.html)
+
+[React JavaScript Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+[React Community Resources](https://reactjs.org/community/support.html)
+
+[React Courses on Coursera](https://www.coursera.org/courses?query=react)
+
+[React Courses on Udemy](https://www.udemy.com/topic/react/)
+
+[React Nanodegree program on Udacity](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[Becoming a React Developer Learning Path on LinkedIn Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
+
+[Learning ReactJS on Codecademy](https://www.codecademy.com/learn/react-101)
+
+[React Tutorials and Training Courses on Pluralsight](https://www.pluralsight.com/browse/software-development/react)
+
+[Introduction to React Course on Cloud Academy](https://cloudacademy.com/course/introduction-toreact/development-environment-set-up/)
+
+## React Development Tools
+
+[WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
+
+[React Native](https://reactnative.dev) is a framework for building native apps for iOS and Android with React.
+
+[Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+
+[React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
+
+[React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
+
+[GraphQL](https://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. It has support in Java, JavaScript, Ruby, Scala, and other programming languages.
+
+[Apollo Client](https://apollographql.com/client) is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL.
+
+[Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+[Meteor](https://www.meteor.com/) is an ultra-simple environment for building modern web applications with JavavScript. 
+
+[mysqljs](https://github.com/mysqljs/mysql) is a pure node.js JavaScript Client implementing the MySQL protocol. 
+
+[axios](https://github.com/axios/axios) is a promise based HTTP client for the browser and node.js.
+
+[Storybook](https://storybook.js.org/) is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.It works with React, Vue, Angular, Ember, and other web frameworks.
+
+[Next.js](https://github.com/vercel/next.js) is a React Framework for production gives you the best developer experience with all the features needed for production such as hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+
+[React Boilerplate](https://www.reactboilerplate.com/) is a highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+
+[TypeORM](https://github.com/typeorm/typeorm) is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+
+[Enzyme](https://github.com/enzymejs/enzyme) is a JavaScript Testing utility for React that makes it easier to test your React Components' output. The user can also manipulate, traverse, and in some ways simulate runtime given the output.
+
+[RxDB](https://github.com/pubkey/rxdb) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. 
+
+[Redux](https://github.com/reduxjs/redux) is a predictable state container for JavaScript apps. 
+
+[Inferno](https://infernojs.org/) is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
+
+[Expo](https://github.com/expo/expo) is an open-source platform for making universal native apps with React.
+
+[React Native Windows](https://microsoft.github.io/react-native-windows/) is a ramework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React. 
+
+[ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
+
+[Ant Design](https://ant.design/) is an enterprise-class UI design language and React UI library.
+
+[Material-UI](https://material-ui.com/) is a collection of [React](https://reactjs.org/) components for faster and simpler web development. 
+
+[Chakra UI](https://chakra-ui.com/) is  a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+
+
+# Flutter Development
+
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719686-0abbaa00-fb39-11ea-978d-91e55844dd7a.png">
+</p>
+
+**[Adobe Experience Cloud Mobile SDK for Flutter](https://aep-sdks.gitbook.io/docs/resources/upgrading-to-aep/current-sdk-versions#flutter)**
+
+## Flutter Learning Resources
+
+[Flutter Gems](https://fluttergems.dev) is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.
+
+[Dart](https://dart.dev/) is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the Flutter framework.
+
+[Flutter documentation](https://flutter.dev/docs)
+
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
+
+[Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+
+[Build and release an Android app using Flutter](https://flutter.dev/docs/deployment/android)
+
+[Flutter Tools & techniques](https://flutter.dev/docs/development/tools)
+
+[Dart and Flutter: The Complete Developer's Guide on Udemy](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/)
+
+[Creating an Interactive Story with Flutter on Coursera](https://www.coursera.org/projects/story-creating-flutter)
+
+[Flutter for Beginners course on Pluralsight](https://www.pluralsight.com/courses/flutter-getting-started)
+
+[Flutter Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/flutter)
+
+[The Complete Flutter App Development Bootcamp with Dart by App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+
+[Adding Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup)
+
+[Using Firebase and Firestore with Flutter](https://flutter.dev/docs/development/data-and-backend/firebase)
+
+[Fuchsia Project](https://fuchsia.dev/)
+
+[Getting Started with Fuchsia](https://fuchsia.dev/fuchsia-src/get-started)
+
+[Fuchsia Reference](https://fuchsia.dev/reference)
+
+[Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
+
+## Flutter Tools
+
+[Firebase](https://firebase.google.com/) is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.
+
+[FlutterFire](https://firebase.flutter.dev/) is a set of [Flutter plugins](https://flutter.io/platform-plugins/) that enable Flutter apps to use [Firebase](https://firebase.google.com/) services. You can follow an example that shows how to use these plugins in the [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0) codelab.
+
+[FlutterBoost](https://github.com/alibaba/flutter_boost) is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
+
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+
+[Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
+
+[Fluro](https://github.com/theyakka/fluro) is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
+
+
+# Swift Development
+
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719675-03949c00-fb39-11ea-8f81-bf4cd544c17f.png">
+</p>
+
+**[Adobe Experience Cloud Mobile SDK for Swift](https://aep-sdks.gitbook.io/docs/resources/upgrading-to-aep/current-sdk-versions)**
+
+## Swift Learning Resources
+
+[Swift](https://developer.apple.com/swift/) is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.
+
+[Swift Evolution](https://github.com/apple/swift-evolution) maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+
+[Xcode + Swift](https://developer.apple.com/swift/resources/) makes developing applications for MacOS and iOS fast and fun.
+
+[Swift 5.3 Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+[Start Developing iOS Apps with Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+
+[Apple Developer Documentation](https://developer.apple.com/documentation)
+
+[Apple Foundation Framework](https://developer.apple.com/documentation/foundation)
+
+[Apple Core Animation Framework](https://developer.apple.com/documentation/quartzcore)
+
+[Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)
+
+[Getting Started with LLDB](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html)
+
+[Mac Catalyst - iOS - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/mac-catalyst/)
+
+[Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
+
+[Swift GitHub](https://github.com/apple/swift) 
+
+[Apple Developer Forums](https://developer.apple.com/forums/)
+
+[Swift Forums](https://forums.swift.org/)
+
+[Google's Swift Style Guide](https://google.github.io/swift/)
+
+[Swift Courses Online from Coursera](https://www.coursera.org/courses?query=swift)
+
+[Swift Courses Online from Udemy](https://www.udemy.com/topic/swift/)
+
+[Learning Swift course from Codecademy](https://www.codecademy.com/learn/learn-swift)
+
+## Tools
+
+[Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
+
+[SwiftUI](https://developer.apple.com/documentation/swiftui) is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.
+
+[UIKit](https://developer.apple.com/documentation/uikit) is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.
+
+[AppKit](https://developer.apple.com/documentation/appkit) is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.
+
+[ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
+
+[RealityKit](https://developer.apple.com/documentation/realitykit) is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.
+
+[SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
+
+[Mac Catalyst](https://developer.apple.com/mac-catalyst/) is a set of Apple APIs that developers can use to rapidly port their iOS apps to [Apple Silicon M1 Chip](https://www.apple.com/mac/m1/) and take full advantage of the new capabilities on the new Apple hardware.
+
+[Instruments](https://help.apple.com/instruments/mac/current/#/dev7b09c84f5) is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.
+
+[Cocoapods](https://cocoapods.org/) is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project. 
+
+[AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
+
+[Vapor](https://github.com/vapor/vapor) is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
+
+[Hero](https://github.com/HeroTransitions/Hero) is a library for building iOS view controller transitions. It provides a declarative layer on top of the UIKit's cumbersome transition APIs—making custom transitions an easy task for developers.
+
+[Kingfisher](https://github.com/onevcat/Kingfisher) is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next app.
+
+[Realm](https://github.com/realm/realm-cocoa) is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the iOS, macOS, tvOS & watchOS versions of Realm Swift & Realm Objective-C.
+
+[Perfect](https://github.com/PerfectlySoft/Perfect) is a complete and powerful toolbox, framework, and application server for Linux, iOS, and macOS (OS X). It provides everything a Swift engineer needs for developing lightweight, maintainable, and scalable apps and other REST services entirely in the Swift programming language for both client-facing and server-side applications.
+
+[Alamofire](https://github.com/Alamofire/Alamofire) is an HTTP networking library written in Swift.
+
+[Eureka](https://github.com/xmartlabs/Eureka) is an elegant iOS form builder in Swift 
+
+[Carthage](https://github.com/Carthage/Carthage) is intended to be the simplest way to add frameworks to your Cocoa application. Carthage builds your dependencies and provides you with binary frameworks, but you retain full control over your project structure and setup. Carthage does not automatically modify your project files or your build settings.
+
+[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
+
+
+# Unity Development
+
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117214420-a4c32080-adb1-11eb-952a-8412ce2714a5.png">
+</p>
+
+**[Adobe Experience Cloud Mobile SDK for Unity](https://aep-sdks.gitbook.io/docs/resources/upgrading-to-aep/current-sdk-versions#unity)**
+
+## Unity Learning Resources
+
+[Unity](https://unity.com) is a cross-platform game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.
+
+[Unity Certifications](https://unity.com/products/unity-certifications)
+
+[Learn game development with Unity](https://learn.unity.com/courses)
+
+[Unity Courses, Training, and Lessons on Udemy](https://www.udemy.com/topic/unity/)
+
+[Learn Unity 3D with Online Courses and Lessons on edX](https://www.edx.org/learn/unity-3d)
+
+[Unity Certified Programmer Exam Preparation on Coursera](https://www.coursera.org/specializations/unity-certified-programmer)
+
+[Unity Courses, Training, and Lessons on Coursera](https://www.coursera.org/courses?query=unity&page=3&index=test_skills_update_prod_all_products_term_optimization)
+
+## Unity Tools
+
+[Unity XR](https://docs.unity3d.com/Manual/XR.html) is a  plug-in framework that enables XR providers to integrate with the Unity engine and make full use of its features.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on Linux, macOS, and Windows.
+
+[Open Graphics Library(OpenGL)](https://www.opengl.org/) is an API used acrossed mulitple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
+
+[Open Computing Language (OpenCL)](https://www.khronos.org/opencl/) is an open standard for [parallel programming](https://www.coursera.org/lecture/parprog1/introduction-to-parallel-computing-zNrIS) of heterogeneous platforms consisting of CPUs, GPUs, and other hardware accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms.
+
+[OpenGL Shading Language(GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) is a High Level Shading Language based on the C-style language, so it covers most of the features a user would expect with such a language.  Such as control structures (for-loops, if-else statements, etc) exist in GLSL, including the switch statement.
+
+[High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline. 
+
+[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
+
+[Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium. 
+
+[Metal](https://developer.apple.com/metal/) is a low-level GPU programming framework used for rendering 2D and 3D graphics on Apple platforms such as iOS, iPadOS, macOS, watchOS and tvOS.
+
+[MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[MoltenGL](https://moltengl.com) is an implementation of the OpenGL ES 2.0 API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/Adobe-Experience-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
