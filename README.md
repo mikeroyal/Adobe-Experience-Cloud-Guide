@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117214124-3a11e500-adb1-11eb-9bec-c9e703fd40d8.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -32,10 +36,6 @@
  
 **Adobe Experience Cloud Platform. Source: [Adobe](https://business.adobe.com/)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117214124-3a11e500-adb1-11eb-9bec-c9e703fd40d8.png">
-  <br />
-</p>
 
 # Adobe Experience Cloud Learning Resources
 
